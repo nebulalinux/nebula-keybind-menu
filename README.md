@@ -2,6 +2,8 @@
 
 A small Rust TUI for browsing keybinds. 
 
+![Nebula Keybind Menu screenshot](https://i.imgur.com/TV7K58f.png)
+
 ## Layout
 - `Cargo.toml` / `Cargo.lock`: Rust crate definition.
 - `src/main.rs`: All app logic (UI, event loop, config loading).
