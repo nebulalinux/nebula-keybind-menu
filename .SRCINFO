@@ -1,0 +1,12 @@
+pkgbase = nebula-keybind-menu
+	pkgdesc = TUI keybind search menu for Nebula
+	pkgver = 0.0.1
+	pkgrel = 1
+	url = https://github.com/nebulalinux
+	arch = x86_64
+	license = MIT
+	makedepends = cargo
+	makedepends = rust
+	depends = glibc
+
+pkgname = nebula-keybind-menu

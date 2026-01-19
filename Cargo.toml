@@ -1,0 +1,13 @@
+[package]
+name = "nebula-keybind-menu"
+version = "0.0.1"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+crossterm = "0.27.0"
+ratatui = { version = "0.26.1", features = ["all-widgets"] }
+serde = { version = "1.0", features = ["derive"] }
+toml = "0.8.12"
+tui-input = "0.8.0"
